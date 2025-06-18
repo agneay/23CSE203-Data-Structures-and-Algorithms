@@ -1,5 +1,4 @@
 # 23CSE203-Data-Structures-and-Algorithms [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![Open in Codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/agneay/23CSE203-Data-Structures-and-Algorithms)
 
 #### A place to store my university DSA files
 
